@@ -1,0 +1,11 @@
+C:\Users\vivii\OneDrive\Desktop\ort\SEMESTRE 2\PROGRAMACION 2\OBLIGATORIO\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivii\OneDrive\Desktop\ort\SEMESTRE 2\PROGRAMACION 2\OBLIGATORIO\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\vivii\OneDrive\Desktop\ort\SEMESTRE 2\PROGRAMACION 2\OBLIGATORIO\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\vivii\OneDrive\Desktop\ort\SEMESTRE 2\PROGRAMACION 2\OBLIGATORIO\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\vivii\OneDrive\Desktop\ort\SEMESTRE 2\PROGRAMACION 2\OBLIGATORIO\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\vivii\OneDrive\Desktop\ort\SEMESTRE 2\PROGRAMACION 2\OBLIGATORIO\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\Users\vivii\OneDrive\Desktop\ort\SEMESTRE 2\PROGRAMACION 2\OBLIGATORIO\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\Users\vivii\OneDrive\Desktop\ort\SEMESTRE 2\PROGRAMACION 2\OBLIGATORIO\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\Users\vivii\OneDrive\Desktop\ort\SEMESTRE 2\PROGRAMACION 2\OBLIGATORIO\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\vivii\OneDrive\Desktop\ort\SEMESTRE 2\PROGRAMACION 2\OBLIGATORIO\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\Users\vivii\OneDrive\Desktop\ort\SEMESTRE 2\PROGRAMACION 2\OBLIGATORIO\Dominio\obj\Debug\net8.0\ref\Dominio.dll
